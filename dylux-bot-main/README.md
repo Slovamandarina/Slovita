@@ -9,10 +9,10 @@
 <p/>
 <p align="center">
 <a href="https://github.com/FG98F/followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-bot?&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-bot?style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-bot?label=Watching&style=social"></a>
-<a href="https://github.com/FG98F/dylux-bot/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/FG98F/dylux-bot?logo=github&style=social"></a>
+<a href="https://github.com/Slovamandarina/Slovita/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/dylux-bot?&style=social"></a>
+<a href="https://github.com/Slovamandarina/Slovita/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/dylux-bot?style=social"></a>
+<a href="https://github.com/Slovamandarina/Slovita/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/dylux-bot?label=Watching&style=social"></a>
+<a href="https://github.com/Slovamandarina/Slovita/watchers"><img title="Contributor" src="https://img.shields.io/github/contributors/FG98F/dylux-bot?logo=github&style=social"></a>
 </p>
 
 
@@ -47,7 +47,7 @@ Multi-idioma para cada usuario, lo que significa que el usuario puede elegir el 
 - [x] Portugués
 - [ ] Idiomas que vendrán después
 
-Puedes abrir el idioma  [Aqui](https://github.com/FG98F/dylux-bot/tree/main/language)
+Puedes abrir el idioma  [Aqui](https://github.com/Slovamandarina/Slovita/tree/main/language)
 ***
 
 ### Instalación
@@ -59,7 +59,7 @@ Puedes abrir el idioma  [Aqui](https://github.com/FG98F/dylux-bot/tree/main/lang
 • pkg install git
 • pkg install ffmpeg
 • pkg install nodejs
-• git clone https://github.com/FG98F/dylux-bot
+• git clone https://github.com/Slovamandarina/Slovita
 • cd dylux-bot
 • npm i
 • npm start
@@ -82,7 +82,7 @@ Cuando aparezca el QR, escanéelo usando la aplicación WhatsApp que se usará p
 - [x] Votacion 
 - [ ] Y mucho más
 
-Puedes abrir el menú [aquí](https://github.com/FG98F/dylux-bot/blob/main/functions/menu.js)
+Puedes abrir el menú [aquí](https://github.com/Slovamandarina/Slovita/blob/main/functions/menu.js)
 
 ### Grupo de WhatsApp 
 
